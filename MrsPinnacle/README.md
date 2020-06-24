@@ -12,4 +12,4 @@ A google chrome application that records time spent on numerous websites.
 Hackathon collaboration between Andrew Su, August Chen, and Edward Lee.
 
 My main role was in implementing the front end chart.html and chart.js with collaborative help.
-<img src="./extensionUI.png" />
+<img src="./icons/extensionUI.png"
