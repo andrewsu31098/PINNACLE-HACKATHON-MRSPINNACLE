@@ -8,17 +8,8 @@
   </p>
 </div>
 
-<div align="center">
-  <a href="https://www.emailthis.me/open-source/extension-boilerplate">
-    <img src="./icons/icon-128.png" alt="Extension Boilerplate">
-  </a>
-</div>
+A google chrome application that records time spent on numerous websites.
+Hackathon collaboration between Andrew Su, August Chen, and Edward Lee.
 
-I have extracted this from the open-source boilerplate project, [Email This](https://www.emailthis.me).
-
-> Side note: Do check out [**Email This**](https://www.emailthis.me). It is a simpler alternative to bookmarking tools like Pocket, Readability & Instapaper. Email This will remove ads & distractions from an article and send you a nice email with just the text/images. No need to install any additional applications or login to another app just to access your bookmarks. 
-The Chrome Extensions is available [on the Chrome Web Store](https://chrome.google.com/webstore/detail/email-this/lgblkllcjgihfnlefhnnpppndbbjallh).
-
-
------------
-This project is licensed under the MIT license. 
+My main role was in implementing the front end chart.html and chart.js with collaborative help.
+<img src="./extensionUI.png" />
